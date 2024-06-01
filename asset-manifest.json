@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ameniifi.github.io/static/css/main.29bd4bc8.css",
+    "main.js": "/ameniifi.github.io/static/js/main.79c96a32.js",
+    "static/js/770.b477def6.chunk.js": "/ameniifi.github.io/static/js/770.b477def6.chunk.js",
+    "static/js/453.1407b060.chunk.js": "/ameniifi.github.io/static/js/453.1407b060.chunk.js",
+    "static/media/chatify.png": "/ameniifi.github.io/static/media/chatify.88a47361501a8b2bfa52.png",
+    "static/media/codeEditor.png": "/ameniifi.github.io/static/media/codeEditor.5f98481ef28421cc0008.png",
+    "static/media/blog.png": "/ameniifi.github.io/static/media/blog.76afd831ac33866424bf.png",
+    "static/media/leaf.png": "/ameniifi.github.io/static/media/leaf.97ebb1587a8b00b340a6.png",
+    "static/media/home-main.png": "/ameniifi.github.io/static/media/home-main.ca2d6b5fe239b4c2dbf0.png",
+    "static/media/avatar.png": "/ameniifi.github.io/static/media/avatar.bb90418030a1c0145731.png",
+    "static/media/emotion.png": "/ameniifi.github.io/static/media/emotion.81d1dced24898aef9a73.png",
+    "static/media/Amani-LAIFI.pdf": "/ameniifi.github.io/static/media/Amani-LAIFI.e8a5718db298d93bf6c0.pdf",
+    "static/media/about.png": "/ameniifi.github.io/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/suicide.png": "/ameniifi.github.io/static/media/suicide.39f9025d07be5ce55941.png",
+    "static/media/home-bg.jpg": "/ameniifi.github.io/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/ameniifi.github.io/static/media/logo.6c23d5275b8afddb9609.png",
+    "static/media/pre.svg": "/ameniifi.github.io/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/ameniifi.github.io/index.html",
+    "main.29bd4bc8.css.map": "/ameniifi.github.io/static/css/main.29bd4bc8.css.map",
+    "main.79c96a32.js.map": "/ameniifi.github.io/static/js/main.79c96a32.js.map",
+    "770.b477def6.chunk.js.map": "/ameniifi.github.io/static/js/770.b477def6.chunk.js.map",
+    "453.1407b060.chunk.js.map": "/ameniifi.github.io/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29bd4bc8.css",
+    "static/js/main.79c96a32.js"
+  ]
+}
